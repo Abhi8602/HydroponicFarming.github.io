@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Hydroponic Farming &#8211; The Future Of Farming</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Hydroponic Farming &raquo; Feed" href="http://localhost/word2/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hydroponic Farming &raquo; Comments Feed" href="http://localhost/word2/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/word2\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://localhost/word2/wp-includes/css/dashicons.min.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost/word2/wp-includes/css/admin-bar.min.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='astra-theme-css-css'  href='http://localhost/word2/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=3.6.4' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:100%;}a,.page-title{color:#181e19;}a:hover,a:focus{color:#56b259;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:'Noto Serif',serif;font-weight:400;font-size:16px;font-size:1rem;}blockquote{color:#141e14;}p,.entry-content p{margin-bottom:1em;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-family:'Poppins',sans-serif;font-weight:600;text-transform:capitalize;}.site-title{font-size:35px;font-size:2.1875rem;display:none;}header .custom-logo-link img{max-width:600px;}.astra-logo-svg{width:600px;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.5rem;}.site-header .site-description{font-size:15px;font-size:0.9375rem;display:none;}.entry-title{font-size:40px;font-size:2.5rem;}h1,.entry-content h1{font-size:64px;font-size:4rem;font-family:'Poppins',sans-serif;line-height:1.1;text-transform:capitalize;}h2,.entry-content h2{font-size:40px;font-size:2.5rem;font-family:'Poppins',sans-serif;line-height:1.1;text-transform:capitalize;}h3,.entry-content h3{font-size:24px;font-size:1.5rem;font-family:'Poppins',sans-serif;line-height:1.1;text-transform:capitalize;}h4,.entry-content h4{font-size:20px;font-size:1.25rem;line-height:1.1;}h5,.entry-content h5{font-size:16px;font-size:1rem;line-height:1.1;}h6,.entry-content h6{font-size:12px;font-size:0.75rem;line-height:1.1;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.875rem;}::selection{background-color:#56b259;color:#000000;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:#5f695f;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#181e19;background-color:#181e19;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#181e19;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#181e19;background-color:#181e19;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#181e19;border-color:#181e19;}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:#181e19;}.entry-meta,.entry-meta *{line-height:1.45;color:#181e19;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#56b259;}.widget-title{font-size:22px;font-size:1.375rem;color:#5f695f;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#181e19;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#181e19;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#181e19;border-color:#181e19;}.calendar_wrap #today > a{color:#ffffff;}.page-links .page-link,.single .post-navigation a{color:#181e19;}.ast-logo-title-inline .site-logo-img{padding-right:1em;}.ast-page-builder-template .hentry {margin: 0;}.ast-page-builder-template .site-content > .ast-container {max-width: 100%;padding: 0;}.ast-page-builder-template .site-content #primary {padding: 0;margin: 0;}.ast-page-builder-template .no-results {text-align: center;margin: 4em auto;}.ast-page-builder-template .ast-pagination {padding: 2em;} .ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {margin-top: 0;}.ast-page-builder-template .entry-header.ast-header-without-markup {margin-top: 0;margin-bottom: 0;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {margin-bottom: 0;}.ast-page-builder-template.single .post-navigation {padding-bottom: 2em;}.ast-page-builder-template.single-post .site-content > .ast-container {max-width: 100%;}.ast-page-builder-template.single-post .site-content > .ast-container {max-width: 100%;}.ast-page-builder-template .entry-header {margin-top: 4em;margin-left: auto;margin-right: auto;padding-left: 20px;padding-right: 20px;}.ast-page-builder-template .ast-archive-description {margin-top: 4em;margin-left: auto;margin-right: auto;padding-left: 20px;padding-right: 20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide {margin-left: 0;margin-right: 0;}.single.ast-page-builder-template .entry-header {padding-left: 20px;padding-right: 20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide {margin-left: 0;margin-right: 0;}@media (max-width:921px){#ast-desktop-header{display:none;}}@media (min-width:921px){#ast-mobile-header{display:none;}}.wp-block-buttons.aligncenter{justify-content:center;}@media (min-width:1200px){.wp-block-group .has-background{padding:20px;}}@media (min-width:1200px){.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;}.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignfull{margin-left:-6.67em;margin-right:-6.67em;padding-left:6.67em;padding-right:6.67em;}}@media (min-width:1200px){.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width:100%;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}@media (max-width:921px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}.elementor-button-wrapper .elementor-button{border-style:solid;text-decoration:none;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:8px;padding-top:16px;padding-right:24px;padding-bottom:16px;padding-left:24px;}.elementor-button-wrapper .elementor-button{border-color:#56b259;background-color:rgba(86,178,89,0);}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:#ffffff;background-color:#56b259;border-color:#56b259;}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:#56b259;}.elementor-button-wrapper .elementor-button{font-family:'Poppins',sans-serif;font-weight:600;line-height:1;text-transform:capitalize;letter-spacing:0.5px;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{font-size:14px;font-size:0.875rem;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#56b259;border-color:#56b259;}.elementor-widget-heading h1.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h2.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h3.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h4.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h5.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h6.elementor-heading-title{line-height:1.1;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;border-color:#56b259;background-color:rgba(86,178,89,0);color:#56b259;font-family:'Poppins',sans-serif;font-weight:600;line-height:1;text-transform:capitalize;letter-spacing:0.5px;font-size:14px;font-size:0.875rem;border-radius:8px;padding-top:16px;padding-right:24px;padding-bottom:16px;padding-left:24px;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;color:#56b259;border-color:#56b259;background-color:rgba(86,178,89,0);border-radius:8px;padding-top:16px;padding-right:24px;padding-bottom:16px;padding-left:24px;font-family:'Poppins',sans-serif;font-weight:600;font-size:14px;font-size:0.875rem;line-height:1;text-transform:capitalize;letter-spacing:0.5px;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#56b259;border-color:#56b259;}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}}@media (max-width:921px){.site-title{display:none;}.ast-archive-description .ast-archive-title{font-size:40px;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:56px;}h2,.entry-content h2{font-size:32px;}h3,.entry-content h3{font-size:24px;}h4,.entry-content h4{font-size:20px;font-size:1.25rem;}h5,.entry-content h5{font-size:16px;font-size:1rem;}h6,.entry-content h6{font-size:12px;font-size:0.75rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}.astra-logo-svg{width:150px;}header .custom-logo-link img,.ast-header-break-point .site-logo-img .custom-mobile-logo-link img{max-width:150px;}}@media (max-width:544px){.site-title{display:none;}.ast-archive-description .ast-archive-title{font-size:40px;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:36px;}h2,.entry-content h2{font-size:26px;}h3,.entry-content h3{font-size:20px;}h4,.entry-content h4{font-size:18px;font-size:1.125rem;}h5,.entry-content h5{font-size:14px;font-size:0.875rem;}h6,.entry-content h6{font-size:12px;font-size:0.75rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:91.2%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(http://localhost/word2/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(http://localhost/word2/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(http://localhost/word2/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.ast-theme-transparent-header [data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{background:transparent;}.footer-widget-area[data-section^="section-fb-html-"] .ast-builder-html-element{text-align:center;}.astra-icon-down_arrow::after {content: "\e900";font-family: Astra;}.astra-icon-close::after {content: "\e5cd";font-family: Astra;}.astra-icon-drag_handle::after {content: "\e25d";font-family: Astra;}.astra-icon-format_align_justify::after {content: "\e235";font-family: Astra;}.astra-icon-menu::after {content: "\e5d2";font-family: Astra;}.astra-icon-reorder::after {content: "\e8fe";font-family: Astra;}.astra-icon-search::after {content: "\e8b6";font-family: Astra;}.astra-icon-zoom_in::after {content: "\e56b";font-family: Astra;}.astra-icon-check-circle::after {content: "\e901";font-family: Astra;}.astra-icon-shopping-cart::after {content: "\f07a";font-family: Astra;}.astra-icon-shopping-bag::after {content: "\f290";font-family: Astra;}.astra-icon-shopping-basket::after {content: "\f291";font-family: Astra;}.astra-icon-circle-o::after {content: "\e903";font-family: Astra;}.astra-icon-certificate::after {content: "\e902";font-family: Astra;}@media (min-width:921px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead,.fl-builder-edit .ast-theme-transparent-header #masthead,body.vc_editor.ast-theme-transparent-header #masthead,body.brz-ed.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header,.ast-theme-transparent-header .ast-above-header.ast-above-header-bar{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}.ast-theme-transparent-header .ast-builder-menu .main-header-menu,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .menu-item > .menu-link,.ast-theme-transparent-header .ast-masthead-custom-menu-items,.ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .ast-above-header-navigation a,.ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation a,.ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation > ul.ast-above-header-menu > .menu-item-has-children:not(.current-menu-item) > .ast-menu-toggle,.ast-theme-transparent-header .ast-below-header-menu,.ast-theme-transparent-header .ast-below-header-menu a,.ast-header-break-point.ast-theme-transparent-header .ast-below-header-menu a,.ast-header-break-point.ast-theme-transparent-header .ast-below-header-menu,.ast-theme-transparent-header .main-header-menu .menu-link{color:rgba(255,255,255,0.64);}.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item:hover > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item:hover > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .ast-masthead-custom-menu-items a:hover,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .focus > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .focus > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-ancestor > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .menu-item:hover > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .menu-link{color:#ffffff;}@media (max-width:921px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead,.fl-builder-edit .ast-theme-transparent-header #masthead,body.vc_editor.ast-theme-transparent-header #masthead,body.brz-ed.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header,.ast-theme-transparent-header .ast-above-header.ast-above-header-bar{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}@media (max-width:921px){.ast-theme-transparent-header .ast-builder-menu .main-header-menu,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .menu-item > .menu-link,.ast-theme-transparent-header .ast-masthead-custom-menu-items,.ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .menu-link{color:#5f695f;}.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item:hover > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item:hover > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .ast-masthead-custom-menu-items a:hover,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .focus > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .focus > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .ast-builder-menu .main-header-menu .current-menu-ancestor > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .menu-item:hover > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .menu-link{color:#181e19;}}.ast-theme-transparent-header #ast-desktop-header > [CLASS*="-header-wrap"]:nth-last-child(2) > [CLASS*="-header-bar"],.ast-theme-transparent-header.ast-header-break-point #ast-mobile-header > [CLASS*="-header-wrap"]:nth-last-child(2) > [CLASS*="-header-bar"]{border-bottom-width:0px;border-bottom-style:solid;}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:#181e19;}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}.ast-builder-layout-element[data-section="title_tagline"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}.ast-builder-menu-1{font-family:inherit;font-weight:inherit;}.ast-builder-menu-1 .sub-menu,.ast-builder-menu-1 .inline-on-mobile .sub-menu{border-top-width:2px;border-bottom-width:0px;border-right-width:0px;border-left-width:0px;border-color:#56b259;border-style:solid;border-radius:0px;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0px;}.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu:before,.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper:before{height:calc( 0px + 5px );}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .menu-item-has-children > .menu-link:after{content:unset;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}}.ast-builder-menu-1{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}.site-below-footer-wrap{padding-top:20px;padding-bottom:20px;}.site-below-footer-wrap[data-section="section-below-footer-builder"]{background-color:#181e19;;background-image:none;;min-height:80px;border-style:solid;border-width:0px;border-top-width:1px;border-top-color:#252d26;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row{max-width:1200px;margin-left:auto;margin-right:auto;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row,.site-below-footer-wrap[data-section="section-below-footer-builder"] .site-footer-section{align-items:flex-start;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-2-equal .ast-builder-grid-row{grid-template-columns:repeat( 2,1fr );}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-2-equal .ast-builder-grid-row{grid-template-columns:repeat( 2,1fr );}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}.ast-builder-html-element img.alignnone{display:inline-block;}.ast-builder-html-element p:first-child{margin-top:0;}.ast-builder-html-element p:last-child{margin-bottom:0;}.ast-header-break-point .main-header-bar .ast-builder-html-element{line-height:1.85714285714286;}.footer-widget-area[data-section="section-fb-html-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="section-fb-html-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="section-fb-html-1"]{display:block;}}.footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element{text-align:right;}@media (max-width:921px){.footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element{text-align:center;}}@media (max-width:544px){.footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element{text-align:center;}}.ast-footer-copyright{text-align:left;}@media (max-width:921px){.ast-footer-copyright{text-align:center;}}@media (max-width:544px){.ast-footer-copyright{text-align:center;}}.ast-footer-copyright.ast-builder-layout-element{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}.site-primary-footer-wrap{padding-top:45px;padding-bottom:45px;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{background-color:#181e19;;background-image:none;;border-style:solid;border-width:0px;border-top-width:1px;border-top-color:#e6e6e6;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row{max-width:1200px;margin-left:auto;margin-right:auto;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row,.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .site-footer-section{align-items:flex-start;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-4-equal .ast-builder-grid-row{grid-template-columns:repeat( 4,1fr );}@media (max-width:921px){.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-4-equal .ast-builder-grid-row{grid-template-columns:repeat( 4,1fr );}}@media (max-width:544px){.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{padding-top:104px;padding-bottom:104px;padding-left:40px;padding-right:40px;}@media (max-width:921px){.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{padding-top:80px;padding-bottom:60px;padding-left:40px;padding-right:40px;}}@media (max-width:544px){.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{padding-top:64px;padding-bottom:64px;padding-left:24px;padding-right:24px;}}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-primary-footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-primary-footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{text-align:left;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{text-align:left;}}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{text-align:center;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .widget-title{color:#ffffff;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{margin-bottom:20px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .footer-widget-area-inner{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .widget-title{color:#ffffff;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:1px;margin-bottom:1px;margin-left:1px;margin-right:1px;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .footer-widget-area-inner{text-align:left;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .footer-widget-area-inner{text-align:left;}}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .footer-widget-area-inner{text-align:center;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .widget-title{color:#ffffff;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{margin-bottom:20px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .footer-widget-area-inner{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .widget-title{color:#ffffff;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:1px;margin-bottom:1px;margin-left:1px;margin-right:1px;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner{text-align:left;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner{text-align:left;}}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner{text-align:center;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .widget-title{color:#ffffff;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{margin-bottom:20px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .footer-widget-area-inner{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .widget-title{color:#ffffff;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:1px;margin-bottom:1px;margin-left:1px;margin-right:1px;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner{text-align:left;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner{text-align:left;}}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner{text-align:center;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .widget-title{color:#ffffff;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{margin-bottom:20px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .footer-widget-area-inner{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-2"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .widget-title{color:#ffffff;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"]{display:block;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a{color:#a4b6a4;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .footer-widget-area-inner a:hover{color:#f8f7f2;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"] .widget-title{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:1px;margin-bottom:1px;margin-left:1px;margin-right:1px;}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-4"]{display:block;}}.elementor-widget-heading .elementor-heading-title{margin:0;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li.product{width:auto;margin:0;float:none;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0 !important;}.elementor-template-full-width .ast-container{display:block;}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link,{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.main-header-menu .sub-menu .menu-item.menu-item-has-children > .menu-link:after{position:absolute;right:1em;top:50%;transform:translate(0,-50%) rotate(270deg);}.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast-menu-toggle::before, .ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle::before, .ast-mobile-popup-drawer .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle::before, .ast-header-break-point .ast-mobile-header-wrap .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle::before{font-weight:bold;content:"\e900";font-family:Astra;text-decoration:inherit;display:inline-block;}.ast-header-break-point .main-navigation ul.sub-menu .menu-item .menu-link:before{content:"\e900";font-family:Astra;font-size:.65em;text-decoration:inherit;display:inline-block;transform:translate(0, -2px) rotateZ(270deg);margin-right:5px;}.widget_search .search-form:after{font-family:Astra;font-size:1.2em;font-weight:normal;content:"\e8b6";position:absolute;top:50%;right:15px;transform:translate(0, -50%);}.astra-search-icon::before{content:"\e8b6";font-family:Astra;font-style:normal;font-weight:normal;text-decoration:inherit;text-align:center;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}.main-header-bar .main-header-bar-navigation .page_item_has_children > a:after, .main-header-bar .main-header-bar-navigation .menu-item-has-children > a:after, .site-header-focus-item .main-header-bar-navigation .menu-item-has-children > .menu-link:after{content:"\e900";display:inline-block;font-family:Astra;font-size:.6rem;font-weight:bold;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-left:10px;line-height:normal;}.ast-mobile-popup-drawer .main-header-bar-navigation .ast-submenu-expanded>.ast-menu-toggle::before{transform:rotateX(180deg);}.ast-header-break-point .main-header-bar-navigation .menu-item-has-children > .menu-link:after{display:none;}.ast-mobile-header-content > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child {padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile-header-content > *:last-child,.ast-desktop-header-content > *:last-child {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header-content .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacity: 1;visibility: visible;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {width: unset;margin: unset;}.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle {left: calc( 20px - 0.907em);}.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {width: 100%;position: relative;display: block;right: auto;transform: none;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {right: 0;visibility: visible;opacity: 1;position: relative;top: auto;transform: none;padding: 0;display: block;overflow: hidden;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop-header-content .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#ffffff;;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:#ffffff;;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, .ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0px;padding-bottom:0px;}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:70px;}.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item{line-height:70px;}@media (max-width:921px){#masthead .ast-mobile-header-wrap .ast-primary-header-bar,#masthead .ast-mobile-header-wrap .ast-below-header-bar{padding-left:20px;padding-right:20px;}}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:1px;border-bottom-style:solid;}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:1px;border-bottom-style:solid;}}.ast-primary-header-bar{background-color:#ffffff;;background-image:none;;}.ast-primary-header-bar{display:block;}@media (max-width:921px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:#56b259;border:none;background:transparent;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:20px;height:20px;fill:#56b259;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:#56b259;}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%7CPoppins%3A600&#038;display=fallback&#038;ver=3.6.4' media='all' />
+<link rel='stylesheet' id='astra-menu-animation-css'  href='http://localhost/word2/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=3.6.4' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost/word2/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' media='all' />
+<link rel='stylesheet' id='elementor-common-css'  href='http://localhost/word2/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.3.0' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/word2/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='wpforms-admin-bar-css'  href='http://localhost/word2/wp-content/plugins/wpforms-lite/assets/css/admin-bar.min.css?ver=1.6.8' media='all' />
+<style id='wpforms-admin-bar-inline-css'>
+#wpadminbar .wpforms-menu-notification-indicator { background-color: #d63638 !important; }#wpadminbar .wpforms-menu-notification-counter { background-color: #d63638 !important; }
+</style>
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost/word2/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.3.0' media='all' />
+<style id='elementor-frontend-inline-css'>
+@font-face{font-family:eicons;src:url(http://localhost/word2/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(http://localhost/word2/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(http://localhost/word2/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(http://localhost/word2/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(http://localhost/word2/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(http://localhost/word2/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+<link rel='stylesheet' id='elementor-post-180-css'  href='http://localhost/word2/wp-content/uploads/elementor/css/post-180.css?ver=1626545382' media='all' />
+<link rel='stylesheet' id='elementor-post-14-css'  href='http://localhost/word2/wp-content/uploads/elementor/css/post-14.css?ver=1626630321' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.7.2' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://localhost/word2/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://localhost/word2/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://localhost/word2/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<!--[if IE]>
+<script src='http://localhost/word2/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=3.6.4' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script src='http://localhost/word2/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='http://localhost/word2/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://localhost/word2/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost/word2/wp-json/wp/v2/pages/14" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/word2/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/word2/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<link rel="canonical" href="http://localhost/word2/" />
+<link rel='shortlink' href='http://localhost/word2/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/word2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fword2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/word2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fword2%2F&#038;format=xml" />
+        <script type="text/javascript">
+            ( function () {
+                window.lae_fs = { can_use_premium_code: false};
+            } )();
+        </script>
+        <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style media="print">#wpadminbar { display:none; }</style>
+	<style media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="http://localhost/word2/wp-content/uploads/2020/08/favicon.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/word2/wp-content/uploads/2020/08/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost/word2/wp-content/uploads/2020/08/favicon.png" />
+<meta name="msapplication-TileImage" content="http://localhost/word2/wp-content/uploads/2020/08/favicon.png" />
+</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-14 logged-in admin-bar no-customize-support ast-single-post ast-mobile-inherit-site-logo ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.6.4 elementor-default elementor-kit-180 elementor-page elementor-page-14">
+	<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/word2/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost/word2/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/support/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/word2/wp-admin/'>Hydroponic Farming</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost/word2/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost/word2/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost/word2/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost/word2/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost/word2/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fword2%2F'>Customize</a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost/word2/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/word2/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost/word2/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost/word2/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost/word2/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='http://localhost/word2/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=f137cda86e#library'>Landing Page</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='http://localhost/word2/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost/word2/wp-admin/user-new.php'>User</a></li><li id='wp-admin-bar-wpforms'><a class='ab-item' href='http://localhost/word2/wp-admin/admin.php?page=wpforms-builder'>WPForms</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='http://localhost/word2/wp-admin/post.php?post=14&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-wpforms-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/word2/wp-admin/admin.php?page=wpforms-overview'>WPForms</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpforms-menu-default' class="ab-submenu"><li id='wp-admin-bar-wpforms-forms'><a class='ab-item' href='http://localhost/word2/wp-admin/admin.php?page=wpforms-overview'>All Forms</a></li><li id='wp-admin-bar-wpforms-add-new'><a class='ab-item' href='http://localhost/word2/wp-admin/admin.php?page=wpforms-builder'>Add New</a></li><li id='wp-admin-bar-wpforms-community'><a class='ab-item' href='https://www.facebook.com/groups/wpformsvip/' target='_blank' rel='noopener noreferrer'>Community</a></li><li id='wp-admin-bar-wpforms-support'><a class='ab-item' href='https://wpforms.com/docs/' target='_blank' rel='noopener noreferrer'>Support</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/word2/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost/word2/wp-admin/profile.php'>Howdy, <span class="display-name">Abhishek</span><img alt='' src='http://2.gravatar.com/avatar/2a92c1437d42ce0d5fa971907204e341?s=26&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2a92c1437d42ce0d5fa971907204e341?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost/word2/wp-admin/profile.php'><img alt='' src='http://2.gravatar.com/avatar/2a92c1437d42ce0d5fa971907204e341?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2a92c1437d42ce0d5fa971907204e341?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>Abhishek</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost/word2/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost/word2/wp-login.php?action=logout&#038;_wpnonce=14c7dbea92'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/word2/wp-login.php?action=logout&#038;_wpnonce=14c7dbea92">Log Out</a>
+					</div>
+
+		<div 
+class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+			<header
+		class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+			<div id="ast-desktop-header" data-toggle-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap ">
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item" data-section="section-primary-header-builder">
+						<div class="site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-primary-header-builder">
+				<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+											<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+									<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+									</div>
+			<!-- .site-branding -->
+					</div>
+								</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-91"><a href="http://localhost/word2/" aria-current="page" class="menu-link">Home</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://localhost/word2/about/" class="menu-link">About</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://localhost/word2/crops-grown/" class="menu-link">Crops Grown</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://localhost/word2/methods/" class="menu-link">Methods</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="http://localhost/word2/gallery/" class="menu-link">Gallery</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://localhost/word2/contact-us/" class="menu-link">Contact Us</a></li>
+</ul></div></nav></div></div>		</div>
+									</div>
+												</div>
+					</div>
+								</div>
+			</div>
+		<div class="ast-desktop-header-content content-align-flex-start ">
+			</div>
+</div> <!-- Main Header Bar Wrap -->
+<div id="ast-mobile-header" class="ast-mobile-header-wrap " data-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap" >
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-primary-header-builder">
+									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+													<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+									</div>
+			<!-- .site-branding -->
+					</div>
+									</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
+						<div class="ast-button-wrap">
+				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-minimal"   aria-expanded="false">
+					<span class="screen-reader-text">Main Menu</span>
+					<span class="mobile-menu-toggle-icon">
+						<span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg role='img' class='ast-mobile-svg ast-menu-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z'></path></svg></span><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-close-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z'></path></svg></span>					</span>
+									</button>
+			</div>
+					</div>
+									</div>
+											</div>
+						</div>
+	</div>
+		<div class="ast-mobile-header-content content-align-flex-start ">
+				<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-91"><a href="http://localhost/word2/" aria-current="page" class="menu-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://localhost/word2/about/" class="menu-link">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://localhost/word2/crops-grown/" class="menu-link">Crops Grown</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://localhost/word2/methods/" class="menu-link">Methods</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="http://localhost/word2/gallery/" class="menu-link">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://localhost/word2/contact-us/" class="menu-link">Contact Us</a></li>
+</ul></div></nav></div></div>		</div>
+			</div>
+</div>
+		</header><!-- #masthead -->
+			<div id="content" class="site-content">
+		<div class="ast-container">
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+				<article
+class="post-14 page type-page status-publish ast-article-single" id="post-14" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+		<header class="entry-header ast-header-without-markup">
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" 
+		itemprop="text"	>
+
+		
+				<div data-elementor-type="wp-page" data-elementor-id="14" class="elementor elementor-14" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-1666181 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default elementor-invisible" data-id="1666181" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInDown&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c7cc975" data-id="c7cc975" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-decb836 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default" data-id="decb836" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b9ffec6" data-id="b9ffec6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c1a7a62 elementor-widget elementor-widget-heading" data-id="c1a7a62" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-xxl">Hydroponic     
+Farming</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dc73e86 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="dc73e86" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-62de456 elementor-widget elementor-widget-heading" data-id="62de456" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-medium">The Future Of modern Farming</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6441053 elementor-align-center elementor-widget elementor-widget-button" data-id="6441053" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost/word2/about/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Know More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-792a94c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="792a94c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1f8aa5d" data-id="1f8aa5d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-980b2a7 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="980b2a7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-18d91f0" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-639b488" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-567d6e5" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-b298fcb" href="#" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-wordpress elementor-repeater-item-9f2b695" target="_blank">
+						<span class="elementor-screen-only">WordPress</span>
+						<i class="fab fa-wordpress"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-77b9258 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77b9258" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1147510" data-id="1147510" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d4eb21a elementor-widget elementor-widget-heading" data-id="d4eb21a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">About Hydroponics</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0adb330 elementor-drop-cap-yes elementor-drop-cap-view-default elementor-widget elementor-widget-text-editor" data-id="0adb330" data-element_type="widget" data-settings="{&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div><ul><li class="font_8" style="background: transparent; pointer-events: auto; font-style: normal; font-size: 15px; line-height: normal; color: rgb(var(--color_14)); text-align: start;"><span style="font-weight: 400;"><a href="https://en.wikipedia.org/wiki/Hydroponics" target="_blank" rel="noopener"><strong>Hydroponic System</strong></a> is a system of growing crops without soil, often called </span><b>soilless farming</b>.</li><li class="font_8" style="background: transparent; pointer-events: auto; font-style: normal; font-size: 15px; line-height: normal; color: rgb(var(--color_14)); text-align: start;">In the hydroponic system, the plant roots grow in a liquid nutrient solution or inside the moist inert materials like Rockwool and Vermiculite.</li><li class="font_8" style="background: transparent; pointer-events: auto; font-style: normal; font-size: 15px; line-height: normal; color: rgb(var(--color_14)); text-align: start;">The liquid nutrient solution is a mixture of essential plant nutrients in the water.</li></ul><div> </div></div>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2a21c89 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a21c89" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f0217f6" data-id="f0217f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0c3dafc elementor-widget elementor-widget-image" data-id="0c3dafc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="400" height="400" src="http://localhost/word2/wp-content/uploads/2020/08/horticulture-vegetable-produce.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5af3658 elementor-widget elementor-widget-heading" data-id="5af3658" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Tomato</h3>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0a596b9" data-id="0a596b9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c6fb5aa elementor-widget elementor-widget-image" data-id="c6fb5aa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="data:image/jpeg;base64,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" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-84e8cc9 elementor-widget elementor-widget-heading" data-id="84e8cc9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Strawberry</h3>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5bfe6fd" data-id="5bfe6fd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-343c276 elementor-widget elementor-widget-image" data-id="343c276" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="data:image/jpeg;base64,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" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5a9fd46 elementor-widget elementor-widget-heading" data-id="5a9fd46" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Spinach</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0940a93 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0940a93" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2763337" data-id="2763337" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8edebf4 elementor-align-center elementor-widget elementor-widget-button" data-id="8edebf4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost/word2/crops-grown/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">View All Crops Here......</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4f75758 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f75758" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2439cb5 elementor-invisible" data-id="2439cb5" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;rotateInDownLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5ed19f0 elementor-widget elementor-widget-heading" data-id="5ed19f0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Our Story</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3d68702 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3d68702" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8c29e98 elementor-widget elementor-widget-heading" data-id="8c29e98" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Method</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dd52b2d elementor-widget elementor-widget-text-editor" data-id="dd52b2d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p class="font_8">Hydroponic Equipment Installation:</p><p class="font_8"><span class="wixGuard">​</span></p><p class="font_8">Barton Breeze is the supplier of all major components of a hydroponic system and hydroponic kits. We provide equipment to set up a fully automated hydroponic farm, automation types of equipment that we offer are:</p><p class="font_8"><span class="wixGuard">​</span></p><ul class="font_8"><li><p class="font_8">Fertigation and dosing controllers,</p></li><li><p class="font_8">Temperature and Water Sensor alarms</p></li><li><p class="font_8">Temperature controller,</p></li><li><p class="font_8">Humidity controller,</p></li><li><p class="font_8">Reserving timer,</p></li><li><p class="font_8">Priming timer,</p></li><li><p class="font_8">Clock timer etc.</p></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-86da13a elementor-widget elementor-widget-button" data-id="86da13a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost/word2/methods/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-caret-right"></i>			</span>
+						<span class="elementor-button-text">Read More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9d409fe elementor-invisible" data-id="9d409fe" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;rotateInUpLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-c15ca87 elementor-widget elementor-widget-image" data-id="c15ca87" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="560" height="373" src="http://localhost/word2/wp-content/uploads/2020/08/horticulrurist-cutting-plant.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c334c43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c334c43" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-763ac10" data-id="763ac10" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3821469 elementor-view-stacked elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="3821469" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fab fa-envira"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Environment Friendly</span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2f45164" data-id="2f45164" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-060f654 elementor-view-stacked elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="060f654" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-carrot"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Fresh &amp; Healthy</span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c20a91d" data-id="c20a91d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9f7b642 elementor-view-stacked elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="9f7b642" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-bong"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Chemical-Free</span>
+				</h3>
+								<p class="elementor-icon-box-description">No Pesticides Required</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f90bfbe" data-id="f90bfbe" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-14a7dfd elementor-view-stacked elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="14a7dfd" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-leaf"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >100% Organic</span>
+				</h3>
+								<p class="elementor-icon-box-description">Grow at your Own Pace</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6db831e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6db831e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-26a0c18" data-id="26a0c18" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5637f41 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5637f41" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b269949 elementor-invisible" data-id="7b269949" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-72fd3e68 elementor-widget elementor-widget-heading" data-id="72fd3e68" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Subscribe To know more</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2633bce elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2633bce" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e4a1f31 elementor-widget elementor-widget-text-editor" data-id="1e4a1f31" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>Get Latest Updates and new developments in Hydroponics by Subscribing to our Newsletter.</p><p>Stay Tuned&#8230;..</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5ad7a835 elementor-widget elementor-widget-wp-widget-wpforms-widget" data-id="5ad7a835" data-element_type="widget" data-widget_type="wp-widget-wpforms-widget.default">
+				<div class="elementor-widget-container">
+			<div class="wpforms-container inline-fields" id="wpforms-8"><form id="wpforms-form-8" class="wpforms-validate wpforms-form" data-formid="8" method="post" enctype="multipart/form-data" action="/word2/" data-token="06899e89e7cec6131f63e64d43117e52"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-8-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-8-field_1">Email <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-8-field_1" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][1]" placeholder="Email address" required></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-8-field-hp" class="wpforms-field-label">Comment</label><input type="text" name="wpforms[hp]" id="wpforms-8-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="8"><input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="14"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-8" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Subscribe">Subscribe</button></div></form></div>  <!-- .wpforms-container -->		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+	</div> <!-- ast-container -->
+	</div><!-- #content -->
+<footer
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-primary-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-4-equal ast-builder-grid-row-tablet-4-equal ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-primary-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
+							<aside
+		class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1"				>
+			<div class="footer-widget-area-inner site-info-inner"><section id="media_image-1" class="widget widget_media_image"><h2 class="widget-title">Queries</h2><img width="1" height="1" src="http://localhost/word2/wp-content/uploads/2021/07/horticulture-business-logo.svg" class="image wp-image-9  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></section><section id="nav_menu-1" class="widget widget_nav_menu"><nav class="menu-contact-container" aria-label="Menu"><ul id="menu-contact" class="menu"><li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a href="#" class="menu-link">info@example.com</a></li>
+</ul></nav></section></div>		</aside>
+						</div>
+											<div class="site-footer-primary-section-2 site-footer-section site-footer-section-2">
+							<aside
+		class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-2" aria-label="Footer Widget 2"		>
+			<div class="footer-widget-area-inner site-info-inner"><section id="text-2" class="widget widget_text"><h2 class="widget-title">Get In Touch</h2>			<div class="textwidget"><p>Write Us A Mail To Know More About the different advancements in the field.</p>
+</div>
+		</section></div>		</aside>
+						</div>
+											<div class="site-footer-primary-section-3 site-footer-section site-footer-section-3">
+							<aside
+		class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-3" aria-label="Footer Widget 3"		>
+			<div class="footer-widget-area-inner site-info-inner"><section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">Quick Link</h2><nav class="menu-main-container" aria-label="Quick Link"><ul id="menu-main" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-91"><a href="http://localhost/word2/" aria-current="page" class="menu-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://localhost/word2/about/" class="menu-link">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://localhost/word2/crops-grown/" class="menu-link">Crops Grown</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://localhost/word2/methods/" class="menu-link">Methods</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="http://localhost/word2/gallery/" class="menu-link">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://localhost/word2/contact-us/" class="menu-link">Contact Us</a></li>
+</ul></nav></section></div>		</aside>
+						</div>
+											<div class="site-footer-primary-section-4 site-footer-section site-footer-section-4">
+							<aside 
+		class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-4" aria-label="Footer Widget 4"		>
+			<div class="footer-widget-area-inner site-info-inner"><section id="text-4" class="widget widget_text"><h2 class="widget-title">Join Us</h2>			<div class="textwidget"></div>
+		</section><section id="nav_menu-3" class="widget widget_nav_menu"><nav class="menu-join-us-container" aria-label="Menu"><ul id="menu-join-us" class="menu"><li id="menu-item-285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285"><a href="http://localhost/word2/about/" class="menu-link">About</a></li>
+<li id="menu-item-286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286"><a href="http://localhost/word2/contact-us/" class="menu-link">Community</a></li>
+</ul></nav></section></div>		</aside>
+						</div>
+										</div>
+			</div>
+
+</div>
+<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-2-equal ast-builder-grid-row-tablet-2-equal ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><p>Copyright © 2021 Hydroponic Farming</p>
+</div>			</div>
+						</div>
+											<div class="site-footer-below-section-2 site-footer-section site-footer-section-2">
+							<div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-1" data-section="section-fb-html-1">
+			<div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p>Powered by Hydroponic Farming</p>
+</div></div>		</div>
+						</div>
+										</div>
+			</div>
+
+</div>
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+<script>
+				( function() {
+					function wpforms_js_error_loading() {
+						
+						if ( typeof window.wpforms !== 'undefined' ) {
+							return;
+						}
+						
+						var forms = document.querySelectorAll( '.wpforms-form' );
+						
+						if ( ! forms.length ) {
+							return;
+						}
+						
+						var error = document.createElement( 'div' );
+
+						error.classList.add( 'wpforms-error-container' );
+						error.innerHTML = 'Heads up! WPForms has detected an issue with JavaScript on this page. JavaScript is required for this form to work properly, so this form may not work as expected. See our <a href="https://wpforms.com/docs/getting-support-wpforms/" target="_blank" rel="noopener noreferrer">troubleshooting guide</a> to learn more or contact support.<p>This message is only displayed to site administrators.</p>';
+
+						forms.forEach( function( form ) {
+						
+							if ( ! form.querySelector( '.wpforms-error-container' ) ) {
+								form.insertBefore( error.cloneNode( true ), form.firstChild );
+							}
+						} );
+					};
+				
+					if ( document.readyState === 'loading' ) {
+						document.addEventListener( 'DOMContentLoaded', wpforms_js_error_loading );
+					} else {
+						wpforms_js_error_loading();
+					}
+				}() );
+			</script><script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Close"></i>
+				<span class="elementor-screen-only">Close</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<link rel='stylesheet' id='e-animations-css'  href='http://localhost/word2/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.3.0' media='all' />
+<link rel='stylesheet' id='wpforms-base-css'  href='http://localhost/word2/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver=1.6.8' media='all' />
+<script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='http://localhost/word2/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.6.4' id='astra-theme-js-js'></script>
+<script src='http://localhost/word2/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script src='http://localhost/word2/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script src='http://localhost/word2/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script src='http://localhost/word2/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script src='http://localhost/word2/wp-includes/js/backbone.min.js?ver=1.4.0' id='backbone-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1' id='backbone-marionette-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4' id='backbone-radio-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.3.0' id='elementor-common-modules-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script id='wp-api-request-js-extra'>
+var wpApiSettings = {"root":"http:\/\/localhost\/word2\/wp-json\/","nonce":"b052f6dda9","versionString":"wp\/v2\/"};
+</script>
+<script src='http://localhost/word2/wp-includes/js/api-request.min.js?ver=5.7.2' id='wp-api-request-js'></script>
+<script src='http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="http://localhost/word2/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script src='http://localhost/word2/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1' id='wp-hooks-js'></script>
+<script src='http://localhost/word2/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='elementor-common-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id='elementor-common-js-before'>
+var elementorCommonConfig = {"version":"3.3.0","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect"],"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/localhost\/word2\/wp-content\/plugins\/elementor\/assets\/","rest":"http:\/\/localhost\/word2\/wp-json\/"},"ajax":{"url":"http:\/\/localhost\/word2\/wp-admin\/admin-ajax.php","nonce":"247fa38b25"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"http:\/\/localhost\/word2\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-app&ver=3.3.0#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"post":{"title":"Add New Post","icon":"plus-circle-o","url":"http:\/\/localhost\/word2\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&_wpnonce=f137cda86e","keywords":["post","page","template","new","create"]},"page":{"title":"Add New Page","icon":"plus-circle-o","url":"http:\/\/localhost\/word2\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&_wpnonce=f137cda86e","keywords":["post","page","template","new","create"]},"e-landing-page":{"title":"Add New Landing Page","icon":"plus-circle-o","url":"http:\/\/localhost\/word2\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&_wpnonce=f137cda86e","keywords":["post","page","template","new","create"]},"elementor_library":{"title":"Add New Template","icon":"plus-circle-o","url":"http:\/\/localhost\/word2\/wp-admin\/edit.php?post_type=elementor_library#add_new","keywords":["post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"http:\/\/localhost\/word2","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"http:\/\/localhost\/word2\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"http:\/\/localhost\/word2\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"http:\/\/localhost\/word2\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"http:\/\/localhost\/word2\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"http:\/\/localhost\/word2\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"http:\/\/localhost\/word2\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Advanced","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experiments","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"version-control":{"title":"Version Control","icon":"time-line","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]}},"name":"tools"}}},"connect":{"is_user_connected":false,"connect_url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-connect&app=library&action=authorize&nonce=4dbfe508cf"}};
+</script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.3.0' id='elementor-common-js'></script>
+<script id='elementor-app-loader-js-before'>
+var elementorAppConfig = {"menu_url":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-app&ver=3.3.0#site-editor\/promotion","assets_url":"http:\/\/localhost\/word2\/wp-content\/plugins\/elementor\/assets\/","return_url":"http:\/\/localhost\/word2\/gallery\/","hasPro":false,"site-editor":[],"import-export":[],"kit-library":[]};
+</script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.3.0' id='elementor-app-loader-js'></script>
+<script src='http://localhost/word2/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.3.0' id='elementor-webpack-runtime-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.3.0' id='elementor-frontend-modules-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.3.0' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"direction":"max","is_enabled":true,"default_value":767},"mobile_extra":{"label":"Mobile Extra","value":880,"direction":"max","is_enabled":false,"default_value":880},"tablet":{"label":"Tablet","value":1024,"direction":"max","is_enabled":true,"default_value":1024},"tablet_extra":{"label":"Tablet Extra","value":1365,"direction":"max","is_enabled":false,"default_value":1365},"laptop":{"label":"Laptop","value":1620,"direction":"max","is_enabled":false,"default_value":1620},"widescreen":{"label":"Widescreen","value":2400,"direction":"min","is_enabled":false,"default_value":2400}}},"version":"3.3.0","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/localhost\/word2\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":14,"title":"Hydroponic%20Farming%20%E2%80%93%20The%20Future%20Of%20Farming","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.3.0' id='elementor-frontend-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.3.0' id='preloaded-modules-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/word2\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='http://localhost/word2/wp-includes/js/wp-util.min.js?ver=5.7.2' id='wp-util-js'></script>
+<script id='wpforms-elementor-js-extra'>
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+</script>
+<script src='http://localhost/word2/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.8' id='wpforms-elementor-js'></script>
+<script id='elementor-admin-bar-js-before'>
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Edit with Elementor","href":"http:\/\/localhost\/word2\/wp-admin\/post.php?post=14&action=elementor","children":{"15":{"id":"elementor_site_settings","title":"Site Settings","sub_title":"Site","href":"http:\/\/localhost\/word2\/wp-admin\/post.php?post=14&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"16":{"id":"elementor_app_site_editor","title":"Theme Builder","sub_title":"Site","href":"http:\/\/localhost\/word2\/wp-admin\/admin.php?page=elementor-app&ver=3.3.0#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
+</script>
+<script src='http://localhost/word2/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.3.0' id='elementor-admin-bar-js'></script>
+<script src='http://localhost/word2/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script id='admin-bar-js-before'>
+( function() {
+				function wpforms_admin_bar_menu_init() {
+					var template = document.getElementById( 'tmpl-wpforms-admin-menubar-data' ),
+						notifications = document.getElementById( 'wp-admin-bar-wpforms-notifications' );
+
+					if ( ! template ) {
+						return;
+					}
+
+					if ( ! notifications ) {
+						var menu = document.getElementById( 'wp-admin-bar-wpforms-menu-default' );
+						menu.insertAdjacentHTML( 'afterBegin', template.innerHTML );
+					} else {
+						notifications.insertAdjacentHTML( 'afterend', template.innerHTML );
+					}
+				};
+				document.addEventListener( 'DOMContentLoaded', wpforms_admin_bar_menu_init );
+			}() );
+</script>
+<script src='http://localhost/word2/wp-includes/js/admin-bar.min.js?ver=5.7.2' id='admin-bar-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0' id='wpforms-validation-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2' id='wpforms-mailcheck-js'></script>
+<script src='http://localhost/word2/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.8' id='wpforms-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			<script type='text/javascript'>
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"This field is required.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_confirm":"Field values do not match.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_empty_blanks":"Please fill out all blanks.","uuid_cookie":"","locale":"en","wpforms_plugin_url":"http:\/\/localhost\/word2\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"http:\/\/localhost\/word2\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":""}
+/* ]]> */
+</script>
+
+<script type="text/html" id="tmpl-wpforms-admin-menubar-data">
+	<li id="wp-admin-bar-wpforms-form-id-8" class="menupop wpforms-menu-form wpforms-menu-form-last">
+		<div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Subscribe Form</div>
+		<div class="ab-sub-wrapper">
+			<ul id="wp-admin-bar-wpforms-form-id-8-default" class="ab-submenu">
+							<li id="wp-admin-bar-wpforms-form-id-8-edit">
+					<a class="ab-item" href="http://localhost/word2/wp-admin/admin.php?page=wpforms-builder&#038;view=fields&#038;form_id=8">Edit Form</a>
+				</li>
+												</ul>
+		</div>
+	</li>
+</script>
+	</body>
+</html>
